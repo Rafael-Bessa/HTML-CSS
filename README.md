@@ -5,4 +5,3 @@ Site feito por mim em um curso Livre do Senac-SP, realizei o site responsivo com
 
 O resultado do trabalho com o BootStrap foi esse abaixo:
 
-https://rafaelbessa.000webhostapp.com/index.html
